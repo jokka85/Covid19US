@@ -1,0 +1,8 @@
+{
+  "State": {
+    "Texas": {
+      "Link": "https://dshs.texas.gov/coronavirus/TexasCOVID19CaseCountData.xlsx",
+      "Type": "Excel"
+    }
+  }
+}
